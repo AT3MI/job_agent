@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.opencode/
+*.log
+# Персональные данные и сертификаты — только локально
+/data/resume.txt
+/data/allowed_facts.json
+/job.txt
+/letter.txt
+*.pem

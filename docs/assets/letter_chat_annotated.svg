@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="2163" viewBox="0 0 1024 2163">
+<rect width="1024" height="2163" fill="#0d1117"/>
+<rect x="1" y="1" width="1022" height="2161" rx="12" fill="none" stroke="#30363d"/>
+<text x="36" y="40" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="20" font-weight="bold" fill="#e6edf3">❌ Письмо из обычного чата — аналитическая разметка</text>
+<text x="36" y="62" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12.5" font-weight="normal" fill="#8b949e">тот же стек фактов из резюме; справа — что именно делает текст неготовым к отправке</text>
+<line x1="24" y1="74" x2="1000" y2="74" stroke="#30363d"/>
+<text x="36" y="101" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">Здравствуйте, я молодой специалист, который владеет свежими знаниями</text>
+<text x="36" y="120" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  вуза и при этом уже имеет производственный опыт и реальные продукты.</text>
+<text x="36" y="139" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  Хочу развиваться в ML, промт-инжиниринге и AI-автоматизации.</text>
+<text x="36" y="158" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<text x="36" y="177" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">Меня заинтересовала ваша вакансия промт-инженера — я обладаю сильной</text>
+<rect x="28" y="180" width="600" height="18" rx="5" fill="#f85149" fill-opacity="0.14"/>
+<text x="36" y="196" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#ff7b72">  математической и технической базой, начинаю раскрывать свои</text>
+<text x="36" y="215" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  возможности и ищу место с хорошим системным подходом и задачами, где</text>
+<text x="36" y="234" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  AI-решения работают в реальных B2B-продуктах, а не остаются</text>
+<text x="36" y="253" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  экспериментом. Меня привлекает именно ваша задача: промты для</text>
+<text x="36" y="272" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  голосовых агентов, подключение агентов к системам, постановка голоса</text>
+<text x="36" y="291" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  и сдача результатов техническому специалисту. Я уже двигаюсь в этом</text>
+<rect x="28" y="294" width="600" height="18" rx="5" fill="#f85149" fill-opacity="0.14"/>
+<text x="36" y="310" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#ff7b72">  направлении и хочу дальше развиваться в нём. Предполагаю, что ваша</text>
+<text x="36" y="329" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  вакансия — это именно то, что я ищу.</text>
+<text x="36" y="348" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<text x="36" y="367" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">По опыту работы с данными и ML. Моё лучшее внедрённое решение:</text>
+<text x="36" y="386" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">На последнем месте работы (транспортная логистика, ~200+ машин, вывоз</text>
+<rect x="28" y="389" width="600" height="18" rx="5" fill="#d29922" fill-opacity="0.14"/>
+<text x="36" y="405" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e3b341">  ТКО области) я в одиночку разработал и внедрил систему компьютерного</text>
+<text x="36" y="424" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  зрения на базе YOLO для контроля перенакопления отходов на площадках</text>
+<text x="36" y="443" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  всего города и области:</text>
+<text x="36" y="462" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<text x="36" y="481" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">https://github.com/AT3MI/trash_det</text>
+<text x="36" y="500" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<text x="36" y="519" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">Ежедневно через систему проходило ~4000 фото с площадок, которые до</text>
+<text x="36" y="538" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  этого проверялись вручную. Я разметил данные, обучил модель на</text>
+<text x="36" y="557" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  классах «мешок мусора» и «завал», на выходе получился продукт,</text>
+<rect x="28" y="560" width="600" height="18" rx="5" fill="#f85149" fill-opacity="0.14"/>
+<text x="36" y="576" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#ff7b72">  ПОЛНОСТЬЮ исключающий потерю важных площадок.</text>
+<text x="36" y="595" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<text x="36" y="614" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">Помимо этого, на Python я закрывал много смежных задач: оптимизация</text>
+<text x="36" y="633" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  маршрутов и графиков, кастомные карты через Yandex Maps API, расчёт</text>
+<text x="36" y="652" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  габаритов проезда через OSM API, эвристический анализ «грязных»</text>
+<text x="36" y="671" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  рукописных данных. Также занимался сведением базы с Excel (Power</text>
+<text x="36" y="690" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  Query, VBA), написанием ТЗ для 1С-разработчиков. То есть работал</text>
+<text x="36" y="709" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  полным циклом «от сырых данных до работающего продукта».</text>
+<text x="36" y="728" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<rect x="28" y="731" width="600" height="18" rx="5" fill="#f85149" fill-opacity="0.14"/>
+<text x="36" y="747" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#ff7b72">По промт-инжинирингу и требованиям вакансии отдельно — здесь я вижу</text>
+<rect x="28" y="750" width="600" height="18" rx="5" fill="#f85149" fill-opacity="0.14"/>
+<text x="36" y="766" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#ff7b72">  задачу, которую закрою аккуратно. С LLM работаю постоянно:</text>
+<text x="36" y="785" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  формулирую задачу модели, понимаю, как она устроена и где ошибается,</text>
+<text x="36" y="804" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  проверяю результат, а не верю на слово; умею строить</text>
+<text x="36" y="823" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  структурированные промты под сценарий и доводить их до стабильного</text>
+<text x="36" y="842" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  результата. Python — рабочий инструмент, SQL уверенно, с JavaScript</text>
+<text x="36" y="861" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  знаком на уровне понимания и готов подтянуть под задачи подключения</text>
+<text x="36" y="880" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  агентов. Промты для голосовых агентов и постановку голоса пока не</text>
+<text x="36" y="899" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  делал, но понимаю логику сценариев и тональности и готов быстро</text>
+<text x="36" y="918" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  разобраться — база и мотивация есть. Мне интересна именно эта</text>
+<text x="36" y="937" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  позиция, чтобы продолжать работать с реальными задачами и рабочими</text>
+<rect x="28" y="940" width="600" height="18" rx="5" fill="#f85149" fill-opacity="0.14"/>
+<text x="36" y="956" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#ff7b72">  кейсами и двигаться в сторону актуального пикового техстека.</text>
+<text x="36" y="975" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<rect x="28" y="978" width="600" height="18" rx="5" fill="#d29922" fill-opacity="0.14"/>
+<text x="36" y="994" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e3b341">Помимо основного проекта, прикладываю ещё несколько работ:</text>
+<text x="36" y="1013" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">— Система прогнозирования загрязнения воздуха по данным с датчиков:</text>
+<text x="36" y="1032" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  полный цикл от моделирования электротехнической части до алгоритмов</text>
+<text x="36" y="1051" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  распознавания и интерфейса — https://disk.yandex.ru/d/…</text>
+<text x="36" y="1070" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">— Диплом: сравнение моделей фильтрации на временных рядах, где датчик</text>
+<text x="36" y="1089" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  работал в реальном времени, от выбора датчиков до информационной</text>
+<text x="36" y="1108" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  системы и применения моделей — https://disk.yandex.ru/d/…</text>
+<text x="36" y="1127" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">— Дашборд анализа эффективности рекламной кампании на Python: сбор</text>
+<text x="36" y="1146" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  данных, обработка, визуализация ключевых метрик.</text>
+<text x="36" y="1165" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<text x="36" y="1184" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">Также есть коммерческий опыт работы со сложной тех. документацией.</text>
+<text x="36" y="1203" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  Работал в медтех-компании, разрабатывающей аппараты ИВЛ</text>
+<text x="36" y="1222" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  (искусственной вентиляции легких). Я был инженером-разработчиком</text>
+<text x="36" y="1241" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  (методистом): писал технические условия и паспорта по ГОСТ на</text>
+<text x="36" y="1260" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  аппараты ИВЛ и их ПО, участвовал в разработке методик тестирования</text>
+<text x="36" y="1279" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  ПО и сборке самих аппаратов. Это дало понимание полного инженерного</text>
+<text x="36" y="1298" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  цикла, дисциплины и того, почему документация и качество — часть</text>
+<text x="36" y="1317" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  продукта.</text>
+<text x="36" y="1336" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<text x="36" y="1355" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">По технической базе: Государственный университет, факультет</text>
+<text x="36" y="1374" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  компьютерных наук, «Математика и компьютерные науки», профиль</text>
+<text x="36" y="1393" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  «Распределённые системы и ИИ».</text>
+<text x="36" y="1412" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">Математическая подготовка: математический анализ, линейная алгебра,</text>
+<text x="36" y="1431" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  теория вероятностей и математическая статистика, оптимизация; вплоть</text>
+<text x="36" y="1450" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  до функционального анализа — свободно владею дифференциальными</text>
+<text x="36" y="1469" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  операторами (градиент, дивергенция, вихрь), понимаю их смысл и</text>
+<text x="36" y="1488" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  применение. Python для ML, временных рядов и алгоритмики (numpy,</text>
+<text x="36" y="1507" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  pandas, sklearn, matplotlib, PyTorch, OpenCV плюс узкие библиотеки</text>
+<text x="36" y="1526" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  на их основе). Понимаю и умею применять типовые архитектуры</text>
+<text x="36" y="1545" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  нейронных сетей: есть опыт написания различных персептронов,</text>
+<text x="36" y="1564" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  теоретически знаком с рекуррентными сетями. Синтезирование и</text>
+<text x="36" y="1583" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  применение алгоритмов распознавания образов. Опыт с временными</text>
+<text x="36" y="1602" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  рядами и регрессионным анализом — в дипломе сравнивал байесовский</text>
+<text x="36" y="1621" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  классификатор и Random Forest на реальных данных, разбирал</text>
+<text x="36" y="1640" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  результаты и метрики качества.</text>
+<text x="36" y="1659" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">Git — рабочий инструмент.</text>
+<text x="36" y="1678" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<rect x="28" y="1681" width="600" height="18" rx="5" fill="#d29922" fill-opacity="0.14"/>
+<text x="36" y="1697" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#e3b341">Почему именно к вам. На прошлом месте я был единственным человеком с</text>
+<text x="36" y="1716" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  такими знаниями — приходилось быть и аналитиком, и разработчиком, и</text>
+<text x="36" y="1735" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  переводчиком между производством и 1С. Мне это дало много, но я ищу</text>
+<text x="36" y="1754" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  место, где есть системная работа и чёткая постановка задач, а не</text>
+<text x="36" y="1773" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  разовая инициатива. У вас для этого есть всё: интересные</text>
+<text x="36" y="1792" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  B2B-продукты, реальные задачи для крупных клиентов, свобода для тех,</text>
+<text x="36" y="1811" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  кто хочет работать, и команда экспертов, готовых поддержать. Это</text>
+<text x="36" y="1830" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  ровно то, что я ищу.</text>
+<text x="36" y="1849" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<text x="36" y="1868" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">Из личных качеств хочу отметить высокую личную заинтересованность в</text>
+<text x="36" y="1887" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  проектах, в которых принимаю участие, разумную инициативность и</text>
+<text x="36" y="1906" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  большое желание развиваться и учиться. Также отмечу навыки командной</text>
+<text x="36" y="1925" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  работы и системного общения: умею договариваться, слышать коллег и</text>
+<text x="36" y="1944" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  переводить задачи с человеческого на технический и обратно. По</text>
+<text x="36" y="1963" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  характеру спокойный, не конфликтный, нацелен на результат и</text>
+<text x="36" y="1982" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  следование идеи отдела\организации. Самоорганизован и ответственен</text>
+<text x="36" y="2001" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  за результат — в удалённом формате это ключевое.</text>
+<text x="36" y="2020" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9"> </text>
+<rect x="28" y="2023" width="600" height="18" rx="5" fill="#f85149" fill-opacity="0.14"/>
+<text x="36" y="2039" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#ff7b72">Для полного понимания моих возможностей предлагаю оценить резюме в</text>
+<text x="36" y="2058" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  профиле — там вы увидите весь пул моих навыков и внедрённых</text>
+<text x="36" y="2077" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#c9d1d9">  продуктов.</text>
+<path d="M628,192 L640,192 L640,192 L650,192" fill="none" stroke="#f85149" stroke-opacity="0.45"/>
+<rect x="650" y="172.5" width="356" height="39" rx="8" fill="#1c2128" stroke="#f85149" stroke-opacity="0.55"/>
+<circle cx="666" cy="192.0" r="4" fill="#f85149"/>
+<text x="678" y="188.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#ff7b72">💧 Вода</text>
+<text x="678" y="204.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">самохарактеристика вместо факта</text>
+<path d="M628,306 L640,306 L640,306 L650,306" fill="none" stroke="#f85149" stroke-opacity="0.45"/>
+<rect x="650" y="286.5" width="356" height="39" rx="8" fill="#1c2128" stroke="#f85149" stroke-opacity="0.55"/>
+<circle cx="666" cy="306.0" r="4" fill="#f85149"/>
+<text x="678" y="302.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#ff7b72">💧 Вода</text>
+<text x="678" y="318.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">«именно то, что я ищу» — угодничество</text>
+<path d="M628,401 L640,401 L640,401 L650,401" fill="none" stroke="#d29922" stroke-opacity="0.45"/>
+<rect x="650" y="381.5" width="356" height="39" rx="8" fill="#1c2128" stroke="#d29922" stroke-opacity="0.55"/>
+<circle cx="666" cy="401.0" r="4" fill="#d29922"/>
+<text x="678" y="397.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#e3b341">⚠️ Самооценка</text>
+<text x="678" y="413.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">факты тонут в сплошном абзаце без структуры</text>
+<path d="M628,572 L640,572 L640,572 L650,572" fill="none" stroke="#f85149" stroke-opacity="0.45"/>
+<rect x="650" y="552.5" width="356" height="39" rx="8" fill="#1c2128" stroke="#f85149" stroke-opacity="0.55"/>
+<circle cx="666" cy="572.0" r="4" fill="#f85149"/>
+<text x="678" y="568.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#ff7b72">✂️ CAPS</text>
+<text x="678" y="584.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">эмоция вместо измеримого результата</text>
+<path d="M628,743 L640,743 L640,743 L650,743" fill="none" stroke="#f85149" stroke-opacity="0.45"/>
+<rect x="650" y="716.0" width="356" height="54" rx="8" fill="#1c2128" stroke="#f85149" stroke-opacity="0.55"/>
+<circle cx="666" cy="743.0" r="4" fill="#f85149"/>
+<text x="678" y="732.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#ff7b72">🧩 Сломан формат</text>
+<text x="678" y="748.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">заголовок «По X — отдельно.» потерял</text>
+<text x="678" y="764.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">структуру</text>
+<path d="M628,762 L640,762 L640,795.5 L650,795.5" fill="none" stroke="#f85149" stroke-opacity="0.45"/>
+<rect x="650" y="776.0" width="356" height="39" rx="8" fill="#1c2128" stroke="#f85149" stroke-opacity="0.55"/>
+<circle cx="666" cy="795.5" r="4" fill="#f85149"/>
+<text x="678" y="792.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#ff7b72">💧 Вода</text>
+<text x="678" y="808.0" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">обещание без единого подтверждения</text>
+<path d="M628,952 L640,952 L640,952 L650,952" fill="none" stroke="#f85149" stroke-opacity="0.45"/>
+<rect x="650" y="932.5" width="356" height="39" rx="8" fill="#1c2128" stroke="#f85149" stroke-opacity="0.55"/>
+<circle cx="666" cy="952.0" r="4" fill="#f85149"/>
+<text x="678" y="948.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#ff7b72">💧 Вода</text>
+<text x="678" y="964.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">модные слова вместо содержания</text>
+<path d="M628,990 L640,990 L640,1004.5 L650,1004.5" fill="none" stroke="#d29922" stroke-opacity="0.45"/>
+<rect x="650" y="977.5" width="356" height="54" rx="8" fill="#1c2128" stroke="#d29922" stroke-opacity="0.55"/>
+<circle cx="666" cy="1004.5" r="4" fill="#d29922"/>
+<text x="678" y="993.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#e3b341">🗂 Ссылки без контекста</text>
+<text x="678" y="1009.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">не видно «проблема → результат» по каждому</text>
+<text x="678" y="1025.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">проекту</text>
+<path d="M628,1693 L640,1693 L640,1693 L650,1693" fill="none" stroke="#d29922" stroke-opacity="0.45"/>
+<rect x="650" y="1673.5" width="356" height="39" rx="8" fill="#1c2128" stroke="#d29922" stroke-opacity="0.55"/>
+<circle cx="666" cy="1693.0" r="4" fill="#d29922"/>
+<text x="678" y="1689.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#e3b341">⚠️ Самооценка</text>
+<text x="678" y="1705.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">без подтверждения, к тому же повтор мысли</text>
+<path d="M628,2035 L640,2035 L640,2035 L650,2035" fill="none" stroke="#f85149" stroke-opacity="0.45"/>
+<rect x="650" y="2015.5" width="356" height="39" rx="8" fill="#1c2128" stroke="#f85149" stroke-opacity="0.55"/>
+<circle cx="666" cy="2035.0" r="4" fill="#f85149"/>
+<text x="678" y="2031.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="bold" fill="#ff7b72">🚫 Отправить нельзя</text>
+<text x="678" y="2047.5" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="11" font-weight="normal" fill="#8b949e">нет контактов, формата работы и подписи</text>
+<line x1="24" y1="2097" x2="1000" y2="2097" stroke="#30363d"/>
+<rect x="28" y="2111" width="968" height="36" rx="8" fill="#f85149" fill-opacity="0.10" stroke="#f85149" stroke-opacity="0.5"/>
+<text x="44" y="2135" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13.5" font-weight="bold" fill="#ff7b72">Итог: черновик. Руками вычистить воду, пересобрать блоки, дописать финал — иначе не отправить</text>
+</svg>

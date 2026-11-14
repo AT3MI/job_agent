@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="400" viewBox="0 0 1100 400">
+<rect width="1100" height="400" fill="#0d1117"/>
+<rect x="1" y="1" width="1098" height="398" rx="12" fill="none" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="36" y="42" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="21" font-weight="bold" fill="#e6edf3">Ровно столько, сколько нужно — и ни одним вызовом больше</text>
+<text x="36" y="66" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="normal" fill="#8b949e">пустых повторов нет · агентности там, где она не нужна, нет · низкий расход — следствие</text>
+<line x1="24" y1="80" x2="1076" y2="80" stroke="#30363d"/>
+<rect x="40" y="110" width="180" height="92" rx="10" fill="#1c2128" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="130.0" y="146" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#e6edf3" text-anchor="middle">факты из резюме</text>
+<text x="130.0" y="172" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="middle">детерминированный код</text>
+<rect x="250" y="110" width="180" height="92" rx="10" fill="#3fb950" fill-opacity="0.1" stroke="#3fb950" stroke-opacity="0.7" stroke-width="1.0"/>
+<text x="340.0" y="146" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#7ee787" text-anchor="middle">генерация письма</text>
+<text x="340.0" y="172" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12.5" font-weight="bold" fill="#7ee787" text-anchor="middle">вызов 1 · ~5.7k токенов</text>
+<rect x="460" y="110" width="180" height="92" rx="10" fill="#1c2128" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="550.0" y="146" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#e6edf3" text-anchor="middle">валидация + retry</text>
+<text x="550.0" y="172" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="middle">детерминированный код</text>
+<rect x="670" y="110" width="180" height="92" rx="10" fill="#3fb950" fill-opacity="0.1" stroke="#3fb950" stroke-opacity="0.7" stroke-width="1.0"/>
+<text x="760.0" y="146" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#7ee787" text-anchor="middle">лингвист: правки</text>
+<text x="760.0" y="172" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12.5" font-weight="bold" fill="#7ee787" text-anchor="middle">вызов 2 · ~2.3k токенов</text>
+<rect x="880" y="110" width="180" height="92" rx="10" fill="#1c2128" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="970.0" y="146" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#e6edf3" text-anchor="middle">сборка letter.txt</text>
+<text x="970.0" y="172" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12" font-weight="normal" fill="#8b949e" text-anchor="middle">детерминированный код</text>
+<line x1="223" y1="156.0" x2="247" y2="156.0" stroke="#8b949e" stroke-opacity="0.9" stroke-width="1.8"/>
+<polygon points="247,156.0 239.0,159.5 239.0,152.5" fill="#8b949e" fill-opacity="0.9"/>
+<line x1="433" y1="156.0" x2="457" y2="156.0" stroke="#8b949e" stroke-opacity="0.9" stroke-width="1.8"/>
+<polygon points="457,156.0 449.0,159.5 449.0,152.5" fill="#8b949e" fill-opacity="0.9"/>
+<line x1="643" y1="156.0" x2="667" y2="156.0" stroke="#8b949e" stroke-opacity="0.9" stroke-width="1.8"/>
+<polygon points="667,156.0 659.0,159.5 659.0,152.5" fill="#8b949e" fill-opacity="0.9"/>
+<line x1="853" y1="156.0" x2="877" y2="156.0" stroke="#8b949e" stroke-opacity="0.9" stroke-width="1.8"/>
+<polygon points="877,156.0 869.0,159.5 869.0,152.5" fill="#8b949e" fill-opacity="0.9"/>
+<rect x="40" y="240" width="1020" height="76" rx="8" fill="#3fb950" fill-opacity="0.08" stroke="#3fb950" stroke-opacity="0.4" stroke-width="1.0"/>
+<text x="550" y="264" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13.5" text-anchor="middle"><tspan fill="#7ee787" font-weight="bold">БЕЗ АГЕНТОВ РАДИ АГЕНТОВ: </tspan><tspan fill="#c9d1d9">LLM делает ровно две вещи — пишет письмо и правит его</tspan></text>
+<text x="550" y="286" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13.5" text-anchor="middle"><tspan fill="#7ee787" font-weight="bold">КОД ТАМ, ГДЕ МОЖЕТ КОД: </tspan><tspan fill="#c9d1d9">валидация, инварианты, guard и сборка — детерминированные</tspan></text>
+<text x="550" y="308" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13.5" text-anchor="middle"><tspan fill="#7ee787" font-weight="bold">НИ ОДНОГО ПУСТОГО ПРОГОНА: </tspan><tspan fill="#c9d1d9">retry только по факту ошибки — в прогоне 0 лишних вызовов</tspan></text>
+<rect x="40" y="332" width="1020" height="42" rx="8" fill="#161b22" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="550" y="359" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="14.5" text-anchor="middle"><tspan fill="#e6edf3" font-weight="bold">весь расход: 2 вызова API · ~8k токенов · ~12 с · 0 ошибок валидации</tspan></text>
+</svg>

@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="740" viewBox="0 0 1000 740">
+<rect width="1000" height="740" fill="#0d1117"/>
+<rect x="1" y="1" width="998" height="738" rx="12" fill="none" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="36" y="42" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="21" font-weight="bold" fill="#e6edf3">Одинаковое начало — разный результат</text>
+<text x="36" y="66" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="normal" fill="#c9d1d9">слева — ручной запрос к LLM, справа — пайплайн</text>
+<line x1="24" y1="80" x2="976" y2="80" stroke="#30363d"/>
+<rect x="30" y="92" width="940" height="272" rx="10" fill="#161b22" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="64" y="120" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#ff7b72">❌ ЧИСТЫЙ ПРОМПТ БЕЗ ИНЖЕНЕРИИ</text>
+<text x="64" y="148" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#c9d1d9">Меня заинтересовала ваша вакансия — я обладаю сильной</text>
+<text x="64" y="174" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#c9d1d9">математической и технической базой, начинаю раскрывать</text>
+<text x="64" y="200" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#c9d1d9">свои возможности и ищу место с хорошим системным</text>
+<text x="64" y="226" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5"><tspan fill="#c9d1d9">подходом и задачами, где </tspan><tspan fill="#f85149">мой опыт и мотивация</tspan></text>
+<text x="64" y="252" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#f85149">помогут мне влиться в вашу команду и внести</text>
+<text x="64" y="278" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#f85149">весомый вклад в достижение общих целей.</text>
+<rect x="50" y="237" width="520" height="22" rx="4" fill="#f85149" fill-opacity="0.13"/>
+<rect x="50" y="263" width="520" height="22" rx="4" fill="#f85149" fill-opacity="0.13"/>
+<path d="M570,248 L580.5,248 L580.5,260 L600,260" fill="none" stroke="#f85149" stroke-opacity="0.5" stroke-width="1.3"/>
+<path d="M570,274 L580.5,274 L580.5,318 L600,318" fill="none" stroke="#f85149" stroke-opacity="0.5" stroke-width="1.3"/>
+<rect x="600" y="236" width="340" height="48" rx="10" fill="#161b22" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="616" y="255" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ff7b72">✗ мусор: штампы из шаблона</text>
+<text x="616" y="274" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12.5" font-weight="normal" fill="#c9d1d9">«весомый вклад», «общие цели»</text>
+<rect x="600" y="294" width="340" height="48" rx="10" fill="#161b22" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="616" y="313" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#ff7b72">✗ мусор: пусто по сути</text>
+<text x="616" y="332" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12.5" font-weight="normal" fill="#c9d1d9">ни требования вакансии, ни факта</text>
+<rect x="30" y="384" width="940" height="266" rx="10" fill="#161b22" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="64" y="412" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#7ee787">✅ МОЙ ПАЙПЛАЙН</text>
+<text x="64" y="440" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#c9d1d9">Меня заинтересовала ваша вакансия — я обладаю сильной</text>
+<text x="64" y="466" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#c9d1d9">математической и технической базой, начинаю раскрывать</text>
+<text x="64" y="492" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#c9d1d9">свои возможности и ищу место с хорошим системным</text>
+<text x="64" y="518" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5"><tspan fill="#c9d1d9">подходом и задачами, где </tspan><tspan fill="#3fb950">я смогу исследовать</tspan></text>
+<text x="64" y="544" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#3fb950">производственные участки, формализовать задачи в</text>
+<text x="64" y="570" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#3fb950">цифровые кейсы и внедрять ML-решения</text>
+<text x="64" y="596" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15.5" font-weight="normal" fill="#3fb950">с экономическим эффектом.</text>
+<rect x="50" y="529" width="520" height="22" rx="4" fill="#3fb950" fill-opacity="0.13"/>
+<rect x="50" y="555" width="520" height="22" rx="4" fill="#3fb950" fill-opacity="0.13"/>
+<path d="M570,540 L580.5,540 L580.5,552 L600,552" fill="none" stroke="#3fb950" stroke-opacity="0.5" stroke-width="1.3"/>
+<path d="M570,566 L580.5,566 L580.5,610 L600,610" fill="none" stroke="#3fb950" stroke-opacity="0.5" stroke-width="1.3"/>
+<rect x="600" y="528" width="340" height="48" rx="10" fill="#161b22" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="616" y="547" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#7ee787">✓ чётко: требования вакансии</text>
+<text x="616" y="566" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12.5" font-weight="normal" fill="#c9d1d9">три требования в одном «где…»</text>
+<rect x="600" y="586" width="340" height="48" rx="10" fill="#161b22" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="616" y="605" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="13" font-weight="bold" fill="#7ee787">✓ чётко: подтверждено ниже</text>
+<text x="616" y="624" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="12.5" font-weight="normal" fill="#c9d1d9">проекты и числа в том же письме</text>
+<rect x="30" y="670" width="940" height="38" rx="8" fill="#1c2128" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
+<text x="500" y="694" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="14" font-weight="bold" fill="#e6edf3" text-anchor="middle">тот же старт: у ручного запроса — штампы, у пайплайна — требования вакансии</text>
+</svg>
