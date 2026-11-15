@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="740" viewBox="0 0 1000 740">
 <rect width="1000" height="740" fill="#0d1117"/>
 <rect x="1" y="1" width="998" height="738" rx="12" fill="none" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
-<text x="36" y="42" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="21" font-weight="bold" fill="#e6edf3">Одинаковое начало — разный результат</text>
-<text x="36" y="66" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="normal" fill="#c9d1d9">слева — ручной запрос к LLM, справа — пайплайн</text>
+<text x="36" y="42" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="21" font-weight="bold" fill="#e6edf3">Ручной запрос к LLM против моего Пайплайна: одинаковое начало — разный результат</text>
 <line x1="24" y1="80" x2="976" y2="80" stroke="#30363d"/>
 <rect x="30" y="92" width="940" height="272" rx="10" fill="#161b22" fill-opacity="1.0" stroke="#30363d" stroke-opacity="1.0" stroke-width="1.0"/>
 <text x="64" y="120" font-family="Consolas, 'Cascadia Mono', 'DejaVu Sans Mono', Menlo, monospace" font-size="15" font-weight="bold" fill="#ff7b72">❌ ЧИСТЫЙ ПРОМПТ БЕЗ ИНЖЕНЕРИИ</text>
